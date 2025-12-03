@@ -12,7 +12,7 @@
   [Live Demo](https://scholarai.com) · [Documentation](https://docs.scholarai.com) · [Report Bug](https://github.com/Javafest2025/frontend/issues) · [Request Feature](https://github.com/Javafest2025/frontend/issues)
 </div>
 
----
+---------------------------------------------------------------
 
 ## ✨ **Core Features**
 
