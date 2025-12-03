@@ -188,7 +188,7 @@ npm run test -- --watch
 - **API Integration**: Mock external services for consistent testing
 - **User Flows**: Critical paths like authentication, document upload, chat
 
----
+-------------------------------------------------------------------
 
 ## 🔧 **Development Workflow**
 
