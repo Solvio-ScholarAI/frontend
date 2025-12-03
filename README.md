@@ -100,7 +100,7 @@ docker-compose up -d
 ./scripts/docker.sh up
 ```
 
----
+---------------------------------------------------------------
 
 ## 🏗️ **Architecture Overview**
 
@@ -135,7 +135,7 @@ src/
 - **PDF Processing**: PDF.js for viewer and text extraction
 - **Real-time Features**: WebSocket connections for live collaboration
 
----
+---------------------------------------------------------------------
 
 ## 🎨 **Design System**
 
