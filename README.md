@@ -59,7 +59,7 @@
 
 1. **Clone and Install**
    ```bash
-   git clone https://github.com/Javafest2025/frontend.git
+   git clone https://github.com/Solvio-ScholarAI/frontend.git
    cd frontend
    npm install
    ```
